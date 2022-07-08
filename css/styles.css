@@ -1,0 +1,17 @@
+
+.caja{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color: lightgoldenrodyellow;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2rem;
+}
+
+.texto{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+}
